@@ -1,12 +1,11 @@
-
 # marquee.js
 
-[English](README.md) | 简体中文
+[English](readme.md) | 简体中文
 
 > 一个用 JavaScript 实现的已废弃标签 `<marquee>` 的复刻版本  
 > 使用 [WTFPL 协议](http://www.wtfpl.net/)
 
-🔗 English version: [README.md](README.md)
+🔗 English version: [readme.md](readme.md)
 
 ## 🌀 特性
 
@@ -56,8 +55,10 @@ JS 会自动为所有 `.marquee` 元素应用滚动效果。
 ![WTFPL badge](https://img.shields.io/badge/license-WTFPL-brightgreen.svg)
 
 你可以随意使用它，做任何你想做的事。
+
 ```
 
 ---
 
-要不要我也打包好 demo 页面和 GitHub README 展示图？你也可以加个 GIF 看起来更酷～
+要不要我也打包好 demo 页面和 GitHub readme 展示图？你也可以加个 GIF 看起来更酷～
+```
