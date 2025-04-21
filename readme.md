@@ -1,12 +1,11 @@
-
 # marquee.js
 
-English | [简体中文](README_zh-CN.md)
+English | [简体中文](readme_zh-CN.md)
 
 > A JavaScript implementation of the deprecated `<marquee>` tag  
 > Licensed under the [WTFPL](http://www.wtfpl.net/)
 
-📖 中文版请见：[README_zh-CN.md](README_zh-CN.md)
+📖 中文版请见：[readme_zh-CN.md](readme_zh-CN.md)
 
 ## 🌀 Features
 
@@ -54,4 +53,7 @@ Because we miss `<marquee>`.
 ![WTFPL badge](https://img.shields.io/badge/license-WTFPL-brightgreen.svg)
 
 Do whatever you want.
+
+```
+
 ```
